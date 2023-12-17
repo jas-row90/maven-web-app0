@@ -48,7 +48,7 @@
 </head>
 <body>
     <div class="header">
-        <img src="images/logo.png" alt="Fusion IT Consulting LLC Logo" class="logo">
+        <img src="images/logo.jpg" alt="Fusion IT Consulting LLC Logo" class="logo">
         <h1>Fusion IT Consulting LLC</h1>
         <h2>Professional IT Services</h2>
     </div>
